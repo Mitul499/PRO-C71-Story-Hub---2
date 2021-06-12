@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://yw-38q.anonymous.pro-c71.exp.direct",
+  "packagerNgrokUrl": "https://packager.yw-38q.anonymous.pro-c71.exp.direct",
+  "ngrokPid": 2276,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
